@@ -6,9 +6,15 @@ osc4, osc5, gl) kilka pól będzie wtedy żywych od początku tworząc jeden z p
 wzorców.
 
 Sterowanie:
+
 Aby włączyć lub wyłączyć jedno z pól na planszy wystarczy w nie kliknąć.
+
 Kilka klawiszy ma też swoją funkcję:
+
 • c – wyczyszczenie planszy (wyłączenie wszystkich pól)
+
 • q – wyjście z gry
+
 • spacja – uruchomienie gry
+
 • Klawisze numeryczne (wszystkie od 0 do 9) tworzą na planszy jeden z przygotowanych wzorców
